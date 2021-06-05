@@ -1,0 +1,6 @@
+{
+  "scope": "darabonba",
+  "name": "UUID",
+  "version": "1.0.0",
+  "main": "./main.dara"
+}
